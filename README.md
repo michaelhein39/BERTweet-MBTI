@@ -1,6 +1,6 @@
 # BERTweet-MBTI
 
-Training a BERTweet model with a neural network head to classify MBTI type of social media posts.
+Training a BERTweet model with a feedforward neural network head to classify MBTI type of social media posts.
 No pre-existing codebase was used in this repository, but libraries are used extensively.
 
 sub_eda
