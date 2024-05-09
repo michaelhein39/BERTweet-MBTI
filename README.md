@@ -1,6 +1,7 @@
 # BERTweet-MBTI
 
 Training a BERTweet model with a neural network head to classify MBTI type of social media posts.
+No pre-existing codebase was used in this repository, but libraries are used extensively.
 
 sub_eda
 
@@ -19,4 +20,3 @@ classification_models_1.ipynb
 
 - Designs and trains two types of classification models: 16-way and 4-headed binary
 - Calculates initial evaluation metrics for each model
-- No pre-existing codebase was used here, but libraries are used extensively
