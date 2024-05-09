@@ -1,2 +1,3 @@
 # BERTweet-MBTI
-Building on a BERTweet model to MBTI type of Tweets.
+
+Training a BERTweet model with a neural network head to classify MBTI type of social media posts.
