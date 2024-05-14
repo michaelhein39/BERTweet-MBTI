@@ -20,3 +20,7 @@ classification_models_1.ipynb
 
 - Designs and trains two types of classification models: 16-way and 4-headed binary
 - Calculates initial evaluation metrics for each model
+
+betweet_MBTI_a.ipynb
+
+- Very similar to classification_models_1.ipynb, but tests different hyperparameters
