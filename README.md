@@ -23,4 +23,4 @@ classification_models_1.ipynb
 
 betweet_MBTI_a.ipynb
 
-- Very similar to classification_models_1.ipynb, but tests different hyperparameters
+- Very similar to classification_models_1.ipynb, but used to test different hyperparameters
